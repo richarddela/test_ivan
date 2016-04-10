@@ -1,0 +1,29 @@
+@media scren and (min-width: 480px)
+{
+	body {
+		background: navy;
+	}
+}
+@media scren and (min-width: 650px)
+{
+	body {
+		background: darkgreen;
+	}
+}
+
+
+
+
+
+@media scren and (min-width: 480px)
+{
+	#primary {
+		background: navy;
+	}
+}
+@media scren and (min-width: 650px)
+{
+	body {
+		background: darkgreen;
+	}
+}
